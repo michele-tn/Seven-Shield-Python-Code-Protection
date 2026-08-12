@@ -1,4 +1,6 @@
-<img src="./Seven-Shield-Python-Code-Protection.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block;"/>
+## 𝘿𝟯𝙈𝟬 — Seven layers of AST obfuscation, an aggressive payload, and zero uploads. Protect your intellectual property directly on your machine.
+
+https://github.com/user-attachments/assets/299a40ef-921a-4b00-997f-bffd40d66144
 
 <video controls preload="metadata" style="width: 100%; max-width: 960px; height: auto;">
   <source
@@ -6,3 +8,8 @@
     type="video/mp4">
   Il tuo browser non supporta la riproduzione video.
 </video>
+
+<br />
+
+<img src="./Seven-Shield-Python-Code-Protection.jpg" style="width: 100%; height: 100%; object-fit: cover; display: block;"/>
+
